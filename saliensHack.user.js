@@ -2,18 +2,15 @@
 // @name          	Saliens Hack
 // @description     Saliens Hack for Steam Summer Sale 2018 Game - AutoSelect Planet, Invincibility, InstaKill
 //
-// @author			    Niclas Harder
+// @author	    Niclas Harder
 // @namespace       http://github.com/niclasharder
-// @downloadURL		  https://github.com/niclasharder/saliens-hack
-//
-// @license         MIT License
-// @copyright       Copyright (C) 2018, by Cory Shaw 
+// @downloadURL	    https://github.com/niclasharder/saliens-hack/blob/master/saliensHack.user.js
 //
 // @include         https://steamcommunity.com/saliengame/play
 // @include         https://steamcommunity.com/saliengame/play/
 //
 // @version         1.1.1
-// @updateURL		https://github.com/coryshaw1/saliens-hack/raw/master/saliensHack.user.js
+// @updateURL	    https://github.com/niclasharder/saliens-hack/blob/master/saliensHack.user.js
 //
 // @run-at			document-start|document-end
 //
@@ -21,21 +18,6 @@
 //
 // @unwrap
 // ==/UserScript==
-
-/**
- * This program is free software: you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation, either version 3 of the License, or
- * (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program. If not, see <http://www.gnu.org/licenses/>.
- */
 
 /**
  * SCRIPT DESCRIPTION.
